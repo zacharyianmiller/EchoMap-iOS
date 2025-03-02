@@ -1,2 +1,2 @@
-# RoomMap-iOS
+# EchoMap-iOS
 Mobile impulse response collector and analyzer.
